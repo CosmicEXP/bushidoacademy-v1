@@ -1,0 +1,159 @@
+/****************************Tag Selectors**************************/
+
+hr {
+  border: solid #ded473;
+  border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****************************Class Selectors**************************/
+
+.container {
+  margin: 0 100px 50 100px;
+  border: 2px solid #ded473;
+  background-color: #222831;
+  font-size: 1.5rem;
+  font-weight: 200;
+  color: #fcf8f3;
+}
+
+.bruce {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  position: static;
+  border-style: double;
+  border-color: #ded473;
+  border-radius: 100%;
+}
+
+.taba {
+  border-style: double;
+}
+
+.tabb {
+  border-style: double;
+}
+
+.tabc {
+  border-style: double;
+}
+
+.tabd {
+  border-style: double;
+}
+
+.tabscenter {
+  padding: 7% 15%;
+}
+
+.title-icon {
+  padding: 5%;
+}
+
+.body-title {
+  font-family: 'Merriweather-bolder';
+  text-align: center;
+  margin: 5px;
+}
+
+.row {
+  text-align: center;
+  align-content: center;
+}
+
+.download-button {
+  font-size: 1rem;
+  padding-left: 54px;
+  padding-right: 54px;
+  border-style: solid;
+  border-color: #ded473;
+  background-color: #f7fdb1;
+}
+
+.arts-d {
+  padding: 5%;
+}
+
+.btn:hover {
+  background-color: #cb3737;
+}
+
+.martial-t {
+  font-family: 'Roboto';
+  font-weight: bolder;
+}
+
+.title-image {
+  margin: 5%;
+  border-radius: 100%;
+  width: 70%;
+}
+
+.title-d {
+  float: left;
+}
+
+.container-1 {
+  padding: 5%;
+  margin-left: 380px;
+  line-height: 1;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-bold';
+}
+
+/* Testimonial Section  */
+
+#testimonials {
+  text-align: center;
+  background-color: #ded473;
+  color: #cb3737;
+  font-family: 'Oswald';
+}
+
+.testimonial-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #222831;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.fab {
+  width: 15%;
+  margin: 20px 20px 30px;
+}
+
+/* Footer Section */
+
+.footer {
+  text-align: center;
+}
+
+
+
+
+
+
+
+/****************************Id Selectors**************************/
